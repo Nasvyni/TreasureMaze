@@ -14,6 +14,7 @@ To install Pygame, run:
 
   
 ˚⟡˖ ࣪ How to Play
+
 Run the game:
 
     python maze.py
