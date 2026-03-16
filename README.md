@@ -1,7 +1,6 @@
-# TreasureMaze
+# TreasureMaze 
 
-Labyrinth Game
-A classic 2D maze game built using Python and the Pygame library. Navigate the hero through the labyrinth, avoid the cyborg patrol and the walls, and reach the treasure to win!
+A classic 2D maze game built using Python and the Pygame library. Navigate the hero through the labyrinth, avoid the cyborg patrol and the walls, and reach the treasure to win !!
 
 ˚⟡˖ ࣪ Requirements
  - Python 3.x
