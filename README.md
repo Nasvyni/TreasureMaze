@@ -2,7 +2,8 @@
 
 A classic 2D maze game built using Python and the Pygame library. Navigate the hero through the labyrinth, avoid the cyborg patrol and the walls, and reach the treasure to win !!
 
-˚⟡˖ ࣪  Requirements
+1.) Requirements
+
  - Python 3.x
 
  - Pygame library
@@ -12,13 +13,13 @@ To install Pygame, run:
     pip install pygame
 
   
-˚⟡˖ ࣪  How to Play
+2.) How to Play
 
 Run the game:
 
     python maze.py
 
-˚⟡˖ ࣪  Controls:
+3.) Controls:
 
 Arrow Keys: Move the hero (up, down, left, right).
 
